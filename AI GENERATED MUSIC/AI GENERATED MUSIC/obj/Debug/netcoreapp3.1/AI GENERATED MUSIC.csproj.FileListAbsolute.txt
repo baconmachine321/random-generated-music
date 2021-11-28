@@ -1,0 +1,14 @@
+C:\Users\Elman\source\repos\AI GENERATED MUSIC\AI GENERATED MUSIC\bin\Debug\netcoreapp3.1\AI GENERATED MUSIC.exe
+C:\Users\Elman\source\repos\AI GENERATED MUSIC\AI GENERATED MUSIC\bin\Debug\netcoreapp3.1\AI GENERATED MUSIC.deps.json
+C:\Users\Elman\source\repos\AI GENERATED MUSIC\AI GENERATED MUSIC\bin\Debug\netcoreapp3.1\AI GENERATED MUSIC.runtimeconfig.json
+C:\Users\Elman\source\repos\AI GENERATED MUSIC\AI GENERATED MUSIC\bin\Debug\netcoreapp3.1\AI GENERATED MUSIC.runtimeconfig.dev.json
+C:\Users\Elman\source\repos\AI GENERATED MUSIC\AI GENERATED MUSIC\bin\Debug\netcoreapp3.1\AI GENERATED MUSIC.dll
+C:\Users\Elman\source\repos\AI GENERATED MUSIC\AI GENERATED MUSIC\bin\Debug\netcoreapp3.1\AI GENERATED MUSIC.pdb
+C:\Users\Elman\source\repos\AI GENERATED MUSIC\AI GENERATED MUSIC\obj\Debug\netcoreapp3.1\AI GENERATED MUSIC.csproj.AssemblyReference.cache
+C:\Users\Elman\source\repos\AI GENERATED MUSIC\AI GENERATED MUSIC\obj\Debug\netcoreapp3.1\AI GENERATED MUSIC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elman\source\repos\AI GENERATED MUSIC\AI GENERATED MUSIC\obj\Debug\netcoreapp3.1\AI GENERATED MUSIC.AssemblyInfoInputs.cache
+C:\Users\Elman\source\repos\AI GENERATED MUSIC\AI GENERATED MUSIC\obj\Debug\netcoreapp3.1\AI GENERATED MUSIC.AssemblyInfo.cs
+C:\Users\Elman\source\repos\AI GENERATED MUSIC\AI GENERATED MUSIC\obj\Debug\netcoreapp3.1\AI GENERATED MUSIC.csproj.CoreCompileInputs.cache
+C:\Users\Elman\source\repos\AI GENERATED MUSIC\AI GENERATED MUSIC\obj\Debug\netcoreapp3.1\AI GENERATED MUSIC.dll
+C:\Users\Elman\source\repos\AI GENERATED MUSIC\AI GENERATED MUSIC\obj\Debug\netcoreapp3.1\AI GENERATED MUSIC.pdb
+C:\Users\Elman\source\repos\AI GENERATED MUSIC\AI GENERATED MUSIC\obj\Debug\netcoreapp3.1\AI GENERATED MUSIC.genruntimeconfig.cache
